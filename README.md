@@ -1,16 +1,30 @@
-## Hi there 👋
+# Alex Dosy
 
-<!--
-**AlexDosy/alexdosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Passionate about building scalable web apps_
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/alexdosy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- **Role:** Software Engineer
+- **Location:** Kochi
+- **Top Skills:**  
+  - Angular  
+  - TypeScript  
+  - DevOps  
+  - CI/CD  
+  - AWS
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Angular, TypeScript
+- **DevOps:** CI/CD pipelines, AWS
+- **Other:** Automation, Scalable Systems
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/alexdosy)
+
+---
+
+_Minimal 
