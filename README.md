@@ -14,10 +14,13 @@ _Passionate about building scalable web apps_
   - DevOps  
   - CI/CD  
   - AWS
+  - NodeJS
+  - REST API
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** Angular, TypeScript
+- **Backend:** NodeJs, RestAPI, NestJS
 - **DevOps:** CI/CD pipelines, AWS
 - **Other:** Automation, Scalable Systems
 
